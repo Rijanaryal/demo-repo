@@ -1,1 +1,1 @@
-# demo-repo star
+# demo-repo stars
